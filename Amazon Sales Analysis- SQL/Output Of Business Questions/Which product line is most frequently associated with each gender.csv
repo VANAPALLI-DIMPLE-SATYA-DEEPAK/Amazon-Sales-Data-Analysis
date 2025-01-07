@@ -1,0 +1,13 @@
+product_line,gender,gender_count
+"Fashion accessories",Female,96
+"Food and beverages",Female,90
+"Sports and travel",Female,88
+"Electronic accessories",Female,84
+"Home and lifestyle",Female,79
+"Health and beauty",Female,64
+"Health and beauty",Male,88
+"Electronic accessories",Male,86
+"Food and beverages",Male,84
+"Fashion accessories",Male,82
+"Home and lifestyle",Male,81
+"Sports and travel",Male,78
