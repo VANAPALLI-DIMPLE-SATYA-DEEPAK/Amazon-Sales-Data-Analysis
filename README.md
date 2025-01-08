@@ -52,23 +52,37 @@
 
 # Product Analysis:
  Food and Beverages and Fashion Accessories have the highest average ratings, indicating strong customer satisfaction and potential market strengths.
+
  Food and Beverages have the highest total sales, amounting to $56,144.96. This indicates a strong market demand and customer preference for this category.
+
  Categories with relatively lower sales and VAT, such as Health and Beauty, might require targeted marketing strategies or product enhancements to boost their performance.
+
  Branch A has the highest total quantity of products sold (1859), exceeding the average number of products sold (1836.67). This indicates strong performance and effective sales strategies at Branch A.
+
  Fashion Accessories are more popular among females (96) compared to males (82).
+
  Focus on enhancing the performance of lower-rated categories like Health and beauty by addressing customer feedback, improving product quality, and implementing effective marketing campaigns.
 
 # Customer Analysis:
  The predominant gender among customers is Female, with 501 counts compared to 499 counts for males.
+
  Customers tend to provide the most ratings in the Evening (432 ratings).
+
  The lower number of ratings in the morning indicates a potential area for improvement. Strategies such as morning discounts or engaging content could help increase morning activity.
+
  Monday has the highest average rating of 7.15, followed by Friday (7.08) and Sunday (7.01). This indicates that customers tend to be more satisfied with their purchases at the start and end of the week.
+
  Members contribute the highest total revenue of $164,223.81, surpassing normal customers who contribute $158,743.62. This highlights the significant impact of loyalty programs and the importance of retaining members.
+
  Evening is the peak time for ratings and Monday has the highest average rating, businesses should consider focusing their promotional activities and customer engagement efforts during these times.
 
 # Sales Analysis:
  January generates the highest revenue $116,292.11. This indicates strong sales performance at the start of the year, possibly due to new year promotions.
+
  The popularity of Ewallet ( 345 occurrences) indicates a shift towards digital transactions.
+
  January has the highest cost of goods sold (COGS) at $110,754.16, suggesting that this month has the most inventory turnover or highest sales volume.
+
  Evenings are consistently high-performing across multiple days, including Monday, Thursday, and Friday. Focusing on enhancing evening sales strategies could further boost revenue.
+
  The high revenue in January suggests that this month are critical for business performance.
